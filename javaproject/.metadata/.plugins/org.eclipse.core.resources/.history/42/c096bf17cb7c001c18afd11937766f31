@@ -1,0 +1,13 @@
+package exercise;
+
+public class Ex3_5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int value=21620;
+		
+		
+		System.out.println(value/100 +("00"));
+	}
+
+}

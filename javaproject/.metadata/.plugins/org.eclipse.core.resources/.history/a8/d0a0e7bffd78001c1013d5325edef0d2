@@ -1,0 +1,15 @@
+
+public class Literal {
+
+	public static void main(String[] args) {
+		int num1 = 20+365;
+		double num2 = 5/2.0;//지수 가수부를 따로 보관하기때문에 아래소수점까지 나오게 할려면 하나를 실수로 바꿔야됨 그러면 실수연산으로 들어가 실수로 나옴
+		int num3 = -300;
+		System.out.println(num1);
+		System.out.println(num2);
+		System.out.println(num3);
+		// TODO Auto-generated method stub
+
+	}
+
+}

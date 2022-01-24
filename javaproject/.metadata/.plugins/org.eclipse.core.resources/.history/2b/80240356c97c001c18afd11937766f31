@@ -1,0 +1,11 @@
+package exercise;
+
+public class Ex3_2 {
+
+	public static void main(String[] args) {
+		int score = 85;
+		String result = (!(score>90))? "°¡":"³ª";// TODO Auto-generated method stub
+System.out.println(result);
+	}
+
+}

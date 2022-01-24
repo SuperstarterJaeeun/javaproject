@@ -1,0 +1,18 @@
+
+public class variable {
+
+	public static void main(String[] args) {
+		int amount = 33;
+		int price = 1000;
+		int result = amount * price;
+		
+		
+		if (amount >= 10) {
+			price = 200;
+		}
+		
+		System.out.println(result);
+		//수량을 10개 이상 
+	}
+
+}

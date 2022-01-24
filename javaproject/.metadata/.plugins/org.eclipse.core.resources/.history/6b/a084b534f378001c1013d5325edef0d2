@@ -1,0 +1,17 @@
+
+public class Calc {
+
+	public static void main(String[] args) {
+		int num1 = 20;
+		int num2 = 30;
+		System.out.println(5+2);
+		System.out.println(5-2);
+		System.out.println(5*2);
+		System.out.println(5/2);
+		
+		
+		
+		
+	}
+
+}

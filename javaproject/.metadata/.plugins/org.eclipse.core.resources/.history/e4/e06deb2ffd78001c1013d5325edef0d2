@@ -1,0 +1,11 @@
+
+public class Literal {
+
+	public static void main(String[] args) {
+		int num1 = 20+365;
+		System.out.println(num1);
+		// TODO Auto-generated method stub
+
+	}
+
+}
